@@ -33,7 +33,7 @@
     "react-markdown": "^10.1.0",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
-    "typeorm": "^0.3.7"
+    "typeorm": "^0.2.41"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
