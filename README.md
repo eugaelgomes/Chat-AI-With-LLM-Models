@@ -1,4 +1,3 @@
-
 # CodaWeb IA - Chat (v.2.0)
 
 Esta é a segunda versão do CodaWeb IA, uma plataforma interativa de chat com modelos de linguagem avançados (LLMs). O projeto visa oferecer uma ferramenta útil e acessível para desenvolvedores, especialmente iniciantes, buscando apoio no aprendizado e na escrita de código.
@@ -85,4 +84,4 @@ A próxima etapa do CodaWeb IA foca em direcioná-lo para programação, com sup
 - Rate limiting de 10 requisições por minuto por IP.
 - A seleção de modelo só pode ser alterada em novos chats.
 
-Link: [https://ai.codaweb.com.br]([https://ai.codaweb.com.br](CodaWeb AI 2.0))
+Link: [https://ai.codaweb.com.br](https://ai.codaweb.com.br "CodaWeb AI 2.0")
