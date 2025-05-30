@@ -66,12 +66,6 @@ function LoginComponent() {
               <span className="text-sm font-medium">Continue with GitHub</span>
             </button>
           </div>
-
-          <div className="text-xs text-gray-400 text-center pt-2">
-            By continuing, you agree to our <br />
-            <a href="#" className="text-[#44ff1f] hover:underline">Terms of Service</a> and{' '}
-            <a href="#" className="text-[#44ff1f] hover:underline">Privacy Policy</a>
-          </div>
         </div>
       </main>
     </div>
